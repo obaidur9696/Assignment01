@@ -12,6 +12,7 @@
       }
     } else {
       echo '<p class="list-group-item border-1">No Record</p>';
+      
     }
   }
 ?>
